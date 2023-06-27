@@ -1,4 +1,3 @@
-Number_Guessing_Game
 A number guessing game aims to guess the number that the program has come up with. Essentially the program logic is:
 1.The program randomly selects a number between 1 and 100 or any other combination of numbers.
 2.It will then ask the player to enter his proposal.
